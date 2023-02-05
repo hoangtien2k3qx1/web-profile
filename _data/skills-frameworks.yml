@@ -1,5 +1,5 @@
-- name: Selenium
+- name: Spring MVC
   weight: 5
 
-- name: Allure
+- name: Struts
   weight: 4
