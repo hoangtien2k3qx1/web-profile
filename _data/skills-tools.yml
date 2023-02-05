@@ -1,4 +1,4 @@
-- name: GitLab
+- name: Github
   weight: 5
 
 - name: Git
