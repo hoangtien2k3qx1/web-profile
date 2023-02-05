@@ -1,14 +1,14 @@
-- name: Python
+- name: Java
   weight: 5
 
-- name: JS
+- name: C++
   weight: 4
 
-- name: C++
+- name: C#
   weight: 4
 
 - name: C
   weight: 3
 
-- name: Ruby
+- name: Kotlin
   weight: 2
