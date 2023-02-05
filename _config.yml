@@ -1,17 +1,17 @@
-title: David Kobalia
-description: David Kobalia's Personal Website
+title: Hoàng Anh Tiến
+description: Hoàng Anh Tiến's Personal Website
 baseurl: ""
 
-username: David Kobalia
-typing_text: Software Engineer / QA Tester
+username: Hoàng Anh Tiến
+typing_text: Mobile App / Backend Engineer.
 
-email: davit.kobalia.1@btu.edu.ge
-telegram_username: in_solitum
-linkedin_username: dkobalia
-github_username: insolitum
-facebook_username: DaWeedGone
-instagram_username: __m.artian__
-viber_number: 995599014780
+email: hoangtien2k3qx1@gmail.com
+telegram_username: hoangtien2k3
+linkedin_username: hoang-anh-tien-928388193
+github_username: hoangtien2k3qx1
+facebook_username: hoangtien2k3.vn
+instagram_username: hoangtien2k3.vn
+viber_number: 0828007853
 
 show_aboutme_card: false
 about_me_title: About Me
@@ -21,8 +21,8 @@ show_skills_card: true
 skills_title: Skills
 
 show_timeline_card: true
-timeline_title: Education & Experience
-cv_download_link: https://resume.io/r/L57OtJ63W
+timeline_title: Experience & Coding C++ / Java OOP
+cv_download_link: https://profile-summary-for-github.com/user/hoangtien2k3qx1
 
 show_projects_card: true
 show_projects: false
@@ -34,11 +34,11 @@ show_contact_card: true
 contact_title: Contacts
 contact_description: Feel free to contact me wherever is comfortable for you
 
-repository: insolitum/insolitum.github.io
+repository: hoangtien2k3qx1/hoangtien2k3qx1.github.io
 github_pages:
   - sorting_algos
   - character_encoder
-  - insolitum.github.io
+  - hoangtien2k3qx1.github.io
   
 projects:
   sort_by: stars
@@ -46,7 +46,7 @@ projects:
     archived: true
     forks: true
     projects:
-      - insolitum
+      - hoangtien2k3qx1
 
 plugins:
   - "jekyll-github-metadata"
