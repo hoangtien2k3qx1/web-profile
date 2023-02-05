@@ -1,40 +1,40 @@
-- title: Exactpro Systems
-  title-url: https://exactpro.com/
-  date: Sep 2021 - Present
-  subtitle: Software Engineer
+- title: Mobile App Android
+  title-url: https://github.com/hoangtien2k3qx1
+  date: Dec 2022 - Present
+  subtitle: Learn Code Mobile / App
   tags:
-    - tag: Python
+    - tag: Java
     - tag: Git
-    - tag: Software Testing
-    - tag: Linux
-    - tag: Jira
+    - tag: C
+    - tag: C++
+    - tag: Markdown
     - tag: SQL
-    - tag: Jenkins
-    - tag: Bitbucket
+    - tag: Framwork
+    - tag: Data Structure And Algorithms
   timeline-side: right
 
-- title: Silknet
-  title-url: https://silknet.com/
-  date: Jun 2020 - Sep 2020
-  subtitle: Troubleshooter
+- title: Learn Code
+  title-url: https://github.com/hoangtien2k3qx1
+  date: 2020 year
+  subtitle: Coding
   tags:
-    - tag: Networking
+    - tag: Code Java / C#
     - tag: Communications
-    - tag: Zsmart
+    - tag: Github Community
   timeline-side: left
 
-- title: Silknet
-  title-url: https://silknet.com/
-  date: Nov 2019 - Apr 2020
-  subtitle: Troubleshooter
+- title: Learn Code
+  title-url: https://github.com/hoangtien2k3qx1
+  date: Apr 2021 - year
+  subtitle: Coding
   tags:
-    - tag: Networking
-    - tag: Communications
-    - tag: Zsmart
+    - tag: C / C++
+    - tag: Github
+    - tag: Data Structure And Algorithms
   timeline-side: right
 
-- title: Business And Technology University
-  title-url: https://btu.edu.ge/
-  date: 2019 - 2023
-  subtitle: Bachelor of Information Systems and Technologies
+- title: University Of Transport Technology
+  title-url: https://utt.edu.vn/
+  date: 2021 - 2026
+  subtitle: Engineer of Information Systems and Technologies
   timeline-side: left
